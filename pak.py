@@ -2,7 +2,7 @@ from seleniumbase import SB
 import random
 import base64
 import requests
-
+proxy_str = False
 urlt = f"https://www.twitch.tv/brutalles"
 
 while True:
