@@ -3,7 +3,6 @@ import random
 import base64
 import requests
 
-fulln = base64.b64decode(name).decode("utf-8")
 urlt = f"https://www.twitch.tv/brutalles"
 
 while True:
